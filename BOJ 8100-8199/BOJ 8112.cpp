@@ -9,7 +9,6 @@ int main()
 	{
 		pnt=0;
 		queue<int> q;
-		
 		scanf("%d", &a);
 		for(int i=0;i<a;i++)
 		{
